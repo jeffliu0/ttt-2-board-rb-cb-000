@@ -15,4 +15,4 @@ def broken_print_and_return
   #puts "Guy Fieri"
 end
 
-broken_print_and_return
+puts broken_print_and_return
