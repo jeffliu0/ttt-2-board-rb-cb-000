@@ -5,3 +5,5 @@ end
 greeting
 
 greeting = 1
+
+puts greeting
