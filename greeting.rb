@@ -6,6 +6,6 @@ greeting
 
 greeting = 1
 
-num_of_attendees = 100
+num_of_attendees = 400
 puts "There are #{num_of_attendees} peeps going to beyonce
 party"
