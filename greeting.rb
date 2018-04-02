@@ -6,4 +6,5 @@ greeting
 
 greeting = 1
 
-puts greeting
+puts "There are #{num_of_attendees} peeps going to beyonce
+party"
