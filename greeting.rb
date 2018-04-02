@@ -12,7 +12,7 @@ party"
 
 def broken_print_and_return
   "Guy Fieri"
-  puts "Guy Fieri"
+  #puts "Guy Fieri"
 end
 
 broken_print_and_return
